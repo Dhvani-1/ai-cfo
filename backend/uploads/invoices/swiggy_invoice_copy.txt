@@ -1,0 +1,5 @@
+Vendor: Swiggy food delivery
+Invoice Number: SW-9921
+Invoice Date: 2026-06-03
+GST Details: CGST 9.00 SGST 9.00
+Total: 150.00

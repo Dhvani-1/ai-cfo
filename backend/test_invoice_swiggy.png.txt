@@ -1,0 +1,5 @@
+Swiggy Receipt
+Invoice No: SW-88371
+Date: 2026-06-18
+GSTIN: 07AAAAA1111A1Z1
+Total: 450.25
